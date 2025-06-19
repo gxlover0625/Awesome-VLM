@@ -21,6 +21,7 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 ## 🌋 Foundation Model
 
 ## 🔨 Deploying
+- [ollama](https://github.com/ollama/ollama) Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. ![Star](https://img.shields.io/github/stars/ollama/ollama.svg?style=social&label=Star)
 - [vllm](https://github.com/vllm-project/vllm) A high-throughput and memory-efficient inference and serving engine for LLMs ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
 - [lmdeploy](https://github.com/InternLM/lmdeploy) LMDeploy is a toolkit for compressing, deploying, and serving LLMs. ![Star](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social&label=Star)
 

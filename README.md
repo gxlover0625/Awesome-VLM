@@ -20,8 +20,13 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 
 ## 🌋 Foundation Model
 
+## 🔨 Deploying
+- [vllm](https://github.com/vllm-project/vllm) A high-throughput and memory-efficient inference and serving engine for LLMs ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)
+- [lmdeploy](https://github.com/InternLM/lmdeploy) LMDeploy is a toolkit for compressing, deploying, and serving LLMs. ![Star](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social&label=Star)
+
 ## 🐳 Training
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) ![Star](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social&label=Star)
+- [ms-swift](https://github.com/modelscope/ms-swift) Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, InternVL3, Llava, GLM4v, Phi4, ...) (AAAI 2025). ![Star](https://img.shields.io/github/stars/modelscope/ms-swift.svg?style=social&label=Star)
 - [EasyR1](https://github.com/hiyouga/EasyR1) An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL. ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star)
 
 

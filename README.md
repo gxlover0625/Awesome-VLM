@@ -36,6 +36,13 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 - [MiniCPM-o-2_6](https://huggingface.co/openbmb/MiniCPM-o-2_6)
 - [MiniCPM-V-2_6](https://huggingface.co/openbmb/MiniCPM-V-2_6)
 
+## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png"  alt="deepseek" style="width: 24px; height: 24px; border-radius: 50%; vertical-align: middle; margin-left: 8px;"> DeepSeek Series
+- [DeepSeek-VL2](https://huggingface.co/collections/deepseek-ai/deepseek-vl2-675c22accc456d3beb4613ab)
+
+## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/5f1158120c833276f61f1a84/HYIF0By10WazlTdVv3xp0.jpeg"  alt="llava" style="width: 24px; height: 24px; border-radius: 50%; vertical-align: middle; margin-left: 8px;"> LLaVa Series
+- [LLaVA-Onevision](https://huggingface.co/collections/llava-hf/llava-onevision-66bb1e9ce8856e210a7ed1fe)
+- [LLaVa-NeXT](https://huggingface.co/collections/llava-hf/llava-next-65f75c4afac77fd37dbbe6cf)
+
 ## 🔨 Deploying
 - [ollama](https://github.com/ollama/ollama) Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. ![Star](https://img.shields.io/github/stars/ollama/ollama.svg?style=social&label=Star)
 - [vllm](https://github.com/vllm-project/vllm) A high-throughput and memory-efficient inference and serving engine for LLMs ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)

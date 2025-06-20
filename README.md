@@ -21,6 +21,8 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 
 
 ## 🌋 Foundation Model
+## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png"  alt="qwen" width="30" height="30" style="vertical-align: middle;"> Qwen Series
+
 
 ## 🔨 Deploying
 - [ollama](https://github.com/ollama/ollama) Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. ![Star](https://img.shields.io/github/stars/ollama/ollama.svg?style=social&label=Star)
@@ -29,6 +31,7 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 
 ## 🐳 Training
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) ![Star](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory.svg?style=social&label=Star)
+- [verl](https://github.com/volcengine/verl) Volcano Engine Reinforcement Learning for LLMs ![Star](https://img.shields.io/github/stars/volcengine/verl.svg?style=social&label=Star)
 - [ms-swift](https://github.com/modelscope/ms-swift) Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, InternVL3, Llava, GLM4v, Phi4, ...) (AAAI 2025). ![Star](https://img.shields.io/github/stars/modelscope/ms-swift.svg?style=social&label=Star)
 - [EasyR1](https://github.com/hiyouga/EasyR1) An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL. ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star)
 

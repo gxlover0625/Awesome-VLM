@@ -22,7 +22,19 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 
 ## 🌋 Foundation Model
 ## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png"  alt="qwen" style="width: 24px; height: 24px; border-radius: 50%; vertical-align: middle; margin-left: 8px;"> Qwen Series
+- [Qwen2.5-VL](https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5)
+- [QVQ-72B-Preview](https://huggingface.co/Qwen/QVQ-72B-Preview)
+- [Qwen2.5-Omni](https://huggingface.co/collections/Qwen/qwen25-omni-67de1e5f0f9464dc6314b36e)
+- [Qwen2-VL](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d)
 
+## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/64006c09330a45b03605bba3/FvdxiTkTqH8rKDOzGZGUE.jpeg"  alt="opengvlab" style="width: 24px; height: 24px; border-radius: 50%; vertical-align: middle; margin-left: 8px;"> OpenGVLab Series
+- [InternVL3](https://huggingface.co/collections/OpenGVLab/internvl3-67f7f690be79c2fe9d74fe9d)
+- [InternVL2.5](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c)
+- [InternVL2.0](https://huggingface.co/collections/OpenGVLab/internvl20-667d3961ab5eb12c7ed1463e)
+
+## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1670387859384-633fe7784b362488336bbfad.png"  alt="openbmb" style="width: 24px; height: 24px; border-radius: 50%; vertical-align: middle; margin-left: 8px;"> OpenBMB Series
+- [MiniCPM-o-2_6](https://huggingface.co/openbmb/MiniCPM-o-2_6)
+- [MiniCPM-V-2_6](https://huggingface.co/openbmb/MiniCPM-V-2_6)
 
 ## 🔨 Deploying
 - [ollama](https://github.com/ollama/ollama) Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. ![Star](https://img.shields.io/github/stars/ollama/ollama.svg?style=social&label=Star)

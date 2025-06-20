@@ -21,7 +21,7 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 
 
 ## 🌋 Foundation Model
-## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png"  alt="qwen" width="30" height="30" style="vertical-align: middle;"> Qwen Series
+## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png"  alt="qwen" style="width: 24px; height: 24px; border-radius: 50%; vertical-align: middle; margin-left: 8px;"> Qwen Series
 
 
 ## 🔨 Deploying

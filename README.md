@@ -46,6 +46,9 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 ## <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg"  alt="moonshot" style="width: 24px; height: 24px; border-radius: 50%; vertical-align: middle; margin-left: 8px;"> MoonShot Series
 - [Kimi-VL-A3B](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85)
 
+## 📚 Tutorial
+- [nanoVLM](https://github.com/huggingface/nanoVLM) The simplest, fastest repository for training/finetuning small-sized VLMs. ![Star](https://img.shields.io/github/stars/huggingface/nanoVLM.svg?style=social&label=Star)
+
 ## 🔨 Deploying
 - [ollama](https://github.com/ollama/ollama) Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. ![Star](https://img.shields.io/github/stars/ollama/ollama.svg?style=social&label=Star)
 - [vllm](https://github.com/vllm-project/vllm) A high-throughput and memory-efficient inference and serving engine for LLMs ![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)

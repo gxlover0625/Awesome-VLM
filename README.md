@@ -18,8 +18,11 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 - [2506] **[Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](http://www.arxiv.org/pdf/2506.04280)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Ziming Cheng, Binrui Xu, Lisheng Gong, Zuhe Song, Tianshuo Zhou, Shiqi Zhong, Siyu Ren, Mingxiang Chen, Xiangchao Meng, Yuxin Zhang, Yanlin Li, Lei Ren, Wei Chen, Zhiyuan Huang, Mingjie Zhan, Xiaojie Wang, Fangxiang Feng*
   - [Code 💻] [MMRB](https://github.com/LesterGong/MMRB) ![Star](https://img.shields.io/github/stars/LesterGong/MMRB.svg?style=social&label=Star)
+- [2406] **[MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding](https://arxiv.org/pdf/2406.09411)** ![ICLR2025](https://img.shields.io/badge/ICLR-2025-blue)
+  - *Fei Wang, Xingyu Fu, James Y. Huang, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen*
+  - [Code 💻] [MuirBench](https://github.com/muirbench/MuirBench) ![Star](https://img.shields.io/github/stars/muirbench/MuirBench.svg?style=social&label=Star)
 - [2406] **[Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning](https://arxiv.org/pdf/2406.12742)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
-  - Bingchen Zhao, Yongshuo Zong, Letian Zhang, Timothy Hospedales
+  - *Bingchen Zhao, Yongshuo Zong, Letian Zhang, Timothy Hospedales*
   - [Dataset 🤗] [MIRB](https://huggingface.co/datasets/VLLMs/MIRB)
 
 

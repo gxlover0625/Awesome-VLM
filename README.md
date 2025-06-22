@@ -18,6 +18,9 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 - [2506] **[Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](http://www.arxiv.org/pdf/2506.04280)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Ziming Cheng, Binrui Xu, Lisheng Gong, Zuhe Song, Tianshuo Zhou, Shiqi Zhong, Siyu Ren, Mingxiang Chen, Xiangchao Meng, Yuxin Zhang, Yanlin Li, Lei Ren, Wei Chen, Zhiyuan Huang, Mingjie Zhan, Xiaojie Wang, Fangxiang Feng*
   - [Code 💻] [MMRB](https://github.com/LesterGong/MMRB) ![Star](https://img.shields.io/github/stars/LesterGong/MMRB.svg?style=social&label=Star)
+- [2406] **[Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning](https://arxiv.org/pdf/2406.12742)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
+  - Bingchen Zhao, Yongshuo Zong, Letian Zhang, Timothy Hospedales
+  - [Dataset 🤗] [MIRB](https://huggingface.co/datasets/VLLMs/MIRB)
 
 
 ## 🌋 Foundation Model

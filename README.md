@@ -24,6 +24,9 @@ I am a researcher specializing in VLM / MLLM technology at Zhejiang University. 
 - [2406] **[Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning](https://arxiv.org/pdf/2406.12742)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Bingchen Zhao, Yongshuo Zong, Letian Zhang, Timothy Hospedales*
   - [Dataset 🤗] [MIRB](https://huggingface.co/datasets/VLLMs/MIRB)
+- [2404] **[BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/pdf/2404.12390)** ![ECCV2024](https://img.shields.io/badge/ECCV-2024-blue)
+  - *Xingyu Fu, Yushi Hu, Bangzheng Li, Yu Feng, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma, Ranjay Krishna*
+  - [Code 💻] [BLINK_Benchmark](https://github.com/zeyofu/BLINK_Benchmark) ![Star](https://img.shields.io/github/stars/zeyofu/BLINK_Benchmark.svg?style=social&label=Star)
 
 
 ## 🌋 Foundation Model
